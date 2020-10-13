@@ -7,7 +7,7 @@ from conans import ConanFile
 
 class CImgConan(ConanFile):
     name = "node-addon-api"
-    version = "3.0.1"
+    version = "3.0.2"
     license = "MIT https://raw.githubusercontent.com/nodejs/node-addon-api/master/LICENSE.md"
     description = "This module contains header-only C++ wrapper classes which simplify the use of the C based N-API provided by Node.js when using C++. It provides a C++ object model and exception handling semantics with low overhead."
     url = "https://github.com/odant/conan-node-addon-api"
